@@ -79,3 +79,6 @@ Per ulteriori informazioni su Grip, eseguire i due comandi seguenti:
 	$ dell'uomo presa
 
 
+# [Table to Markdown](https://github.com/kbravh/table-to-markdown/blob/master/README.md)
+![](https://github.com/kbravh/table-to-markdown/raw/master/images/logo_128.png)
+

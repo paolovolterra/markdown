@@ -35,6 +35,10 @@ The resulting documents are well formatted.
 
 ## sitografia
 
+### generici
 https://opensource.com/article/18/9/intro-pandoc
+
+### linux
+https://waylonwalker.com/til/convert-markdown-pdf-linux/
 
 

@@ -41,4 +41,5 @@ https://opensource.com/article/18/9/intro-pandoc
 ### linux
 https://waylonwalker.com/til/convert-markdown-pdf-linux/
 
-
+## video
+https://www.youtube.com/watch?v=nr5HA32GMFA

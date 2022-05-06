@@ -10,6 +10,19 @@ Puoi installare lo strumento da riga di comando Markdown in altre distribuzioni 
 Per convertire un file “.md” in un file “.html”, eseguire un comando nel seguente formato:	$ **markdown file.md > file.html**
 
 
+## gestire un'immagine
+linkandola direttamente o prevedere riferimenti
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
+
 ## Pandoc
 
 vedi pagina apposita

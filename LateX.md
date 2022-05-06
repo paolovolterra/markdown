@@ -2,6 +2,22 @@
 LateX
 ---
 
+# siti interessanti
+
+https://avvocati-e-mac.squarespace.com/blog/2019/4/9/compilare-un-atto-telematico-in-markdown-con-pandoc
+
+https://avvocati-e-mac.squarespace.com/blog/2019/4/7/aggiungere-il-dialetto-di-latex-ad-un-atto-telematico
+
+https://avvocati-e-mac.squarespace.com/blog/2019/4/5/come-scrivere-un-atto-telematico-avanzato-in-markdown
+
+https://avvocati-e-mac.squarespace.com/blog/2021/8/23/scrivere-atti-telematici-avanzati-in-latex-parte-i
+
+https://avvocati-e-mac.squarespace.com/blog/2021/8/30/scrivere-atti-telematici-avanzati-in-latex-parte-ii-convertire-lintestazione-yaml
+
+https://avvocati-e-mac.squarespace.com/blog/2021/9/5/atti-telematici-avanzati-in-latex-p3-le-regole-base-della-formattazione
+
+https://avvocati-e-mac.squarespace.com/blog/2021/11/2/crivere-atti-telematici-avanzati-in-latex-parte-iv-link-interni-a-documenti-ed-al-web-ed-immagini
+
 
 # ruotare un testo (Latex)
 

@@ -25,7 +25,7 @@ Reference-style:
 
 ## Pandoc
 
-vedi pagina apposita
+vedi [pagina apposita](https://github.com/paolovolterra/markdown/blob/main/Pandoc.md#converting-markdown-to-pdf-or-docx-with-pandoc)
 
 
 

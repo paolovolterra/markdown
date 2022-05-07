@@ -1,3 +1,14 @@
+Per avere intestazioni e piè di pagina piacevoli, devi fornire metadati al tuo documento. Puoi farlo con un blocco di metadati YAML nella parte superiore del tuo documento markdown (vedi il file markdown di esempio ). Il tuo documento markdown potrebbe essere simile al seguente:
+
+```YAML
+titolo : " Il titolo del documento " 
+autore : [Esempio autore, Altro autore] 
+data : " 2017-02-20 " 
+parole chiave : [Rivalutazione, Esempio] 
+```
+
+
+
 # YAML usato per il PDF "Superbonus"
 
 ```yaml

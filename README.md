@@ -1,6 +1,11 @@
 # MARKDOWN
 ![](https://lh3.googleusercontent.com/eMHydm0FuqFGOttVptB2M9HIrGEnLIZxkoHwlBGlrtq8yijnWNy0459ncJl71OtWAO69E4pVSFsdzYIhkV8NbuEchDs=w128-h128-e365-rj-sc0x00ffffff)
 
+L'idea di Markdown è quella di utilizzare un file di testo (.TXT) utilizzando dei "segni" (in linguaggio tecnico markup) per attribuire alle parole una formattazione convenzionale.
+
+se metto ad es 2 * prima poi dopo una parola, markdown capisce che quella parola deve essere scritta in **grassetto**
+
+se uso la sequenza [ ] ( ) e dentro metto nella prima parte del testo e nella seconda un link, capisce che devo scrivere il testo con un hyperlink [prova]()
 
 Qui c'è la sintassi per dire all'editor che il testo deve essere trattato in modi particolari [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

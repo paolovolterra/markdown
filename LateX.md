@@ -12,7 +12,16 @@ LaTeX utilizza un sistema di pacchetti per estenderne funzionalità e caratteris
 
 Con LaTeX, il documento viene scritto in un editor di testo semplice (semplice come Blocco note o TextEdit) e fornito al compilatore LaTeX che interpreta i comandi LaTeX insieme al testo per produrre un output PDF. Ciò significa che le impostazioni importanti del documento come i caratteri, i margini e gli stili di intestazione sono definite in una sezione nella parte superiore del documento e qualsiasi formattazione locale (come il testo in grassetto) viene eseguita tramite l'uso di comandi nel testo. 
 
-**prima** <img src="https://www.latextemplates.com/images/freeman-cv_code.png" width="300" height="300"> **dopo** <img src="https://www.latextemplates.com/images/freeman-cv.jpg" width="300" height="300">
+**prima** <img src="https://www.latextemplates.com/images/freeman-cv_code.png" width="300" height="300"/> **dopo** <img src="https://www.latextemplates.com/images/freeman-cv.jpg" width="300" height="300"/>
+
+# [template](https://www.latextemplates.com/)
+
+<img src="https://www.mathematik.hu-berlin.de/~drapeau/Template_Screenshot.png" width="300"/>
+<img src="https://i.redd.it/gjjrqt82ydj51.jpg" width="300"/>
+<img src="https://i.pinimg.com/originals/d6/be/a4/d6bea49a1b33b4906c8f279846ff8458.png" width="300"/>
+     
+
+
 
 
 # siti interessanti

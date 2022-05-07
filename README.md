@@ -1,6 +1,6 @@
-# MARKDOWN and beyond
+# MARKDOWN
+![](https://lh3.googleusercontent.com/eMHydm0FuqFGOttVptB2M9HIrGEnLIZxkoHwlBGlrtq8yijnWNy0459ncJl71OtWAO69E4pVSFsdzYIhkV8NbuEchDs=w128-h128-e365-rj-sc0x00ffffff)
 
-![](https://miro.medium.com/max/1400/1*zv16_HpmtjBQ3QfObwGkiA.jpeg)
 
 Qui c'è la sintassi per dire all'editor che il testo deve essere trattato in modi particolari [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 

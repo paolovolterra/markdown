@@ -2,10 +2,12 @@
 
 ![](https://miro.medium.com/max/1400/1*zv16_HpmtjBQ3QfObwGkiA.jpeg)
 
-Markdown è un'applicazione a riga di comando gratuita e open source in grado di convertire i file Markdown in file HTML. È un'utilità della riga di comando sviluppata dai creatori della sintassi Markdown stessa. Per installarlo in Ubuntu, usa il comando seguente:
-	$ sudo apt install markdown
+Markdown è un'applicazione a riga di comando gratuita e open source in grado di convertire file scritti con un qualsiasi editor (notepad, vim, ecc) in file HTML, PDF, docx
+Per installarlo in Ubuntu, usa il comando seguente:
 
-Puoi installare lo strumento da riga di comando Markdown in altre distribuzioni Linux dal gestore pacchetti. Puoi anche compilarlo dal suo codice sorgente disponibile qui .
+```linux
+$ sudo apt install markdown
+```
 
 Per convertire un file “.md” in un file “.html”, eseguire un comando nel seguente formato:	$ **markdown file.md > file.html**
 

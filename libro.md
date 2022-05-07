@@ -1,10 +1,21 @@
-YAML
+# Struttura
+
+```
+ src
+├── 01-intro.md
+├── 02-setup.md
+└── title.txt
+```
+
+---
+
+# YAML
 
 * foglio di stile: epub.css 
 * immagine di copertina: cover.jpg 
 
 
-# [YAML usato da @pianomanfrazier](https://gitlab.com/pianomanfrazier/pandoc-markdown-book)
+## [YAML usato da @pianomanfrazier](https://gitlab.com/pianomanfrazier/pandoc-markdown-book)
 
 ```YAML
 title: Some Markdown Book

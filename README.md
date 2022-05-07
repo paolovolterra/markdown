@@ -43,3 +43,17 @@ Per convertire un file “.md” in un file “.html”, eseguire un comando nel
 # [Table to Markdown](https://github.com/kbravh/table-to-markdown/blob/master/README.md)
 ![](https://github.com/kbravh/table-to-markdown/raw/master/images/logo_128.png)
 
+
+<img src="icon.png" align="right" height="110"/>
+
+# Eisvogel
+
+[![Build Status](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template.svg?branch=master)](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template)
+
+A clean **pandoc LaTeX template** to convert your markdown files to PDF or LaTeX. It is designed for lecture notes and exercises with a focus on computer science. The template is compatible with pandoc 2.
+
+## Preview
+
+| A custom title page  | A basic example page |
+| :------------------: | :------------------: |
+| [![A custom title page](examples/custom-titlepage/custom-titlepage.png)](examples/custom-titlepage/custom-titlepage.pdf) | [![A basic example page](examples/basic-example/basic-example.png)](examples/basic-example/basic-example.pdf) |

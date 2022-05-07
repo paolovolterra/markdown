@@ -54,6 +54,4 @@ A clean **pandoc LaTeX template** to convert your markdown files to PDF or LaTeX
 
 ## Preview
 
-| A custom title page  | A basic example page |
-| :------------------: | :------------------: |
-| [![manuale Pandoc](examples/custom-titlepage/custom-titlepage.png)](examples/custom-titlepage/custom-titlepage.pdf) | [![A basic example page](examples/basic-example/basic-example.png)](examples/basic-example/basic-example.pdf) |
+[![manuale Pandoc](PandocManual.pdf)

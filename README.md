@@ -46,7 +46,7 @@ Per convertire un file “.md” in un file “.html”, eseguire un comando nel
 
 <img src="icon.png" align="right" height="110"/>
 
-# Eisvogel
+# [Eisvogel](https://github.com/pianomanfrazier/pandoc-latex-template#readme)
 
 [![Build Status](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template.svg?branch=master)](https://travis-ci.org/Wandmalfarbe/pandoc-latex-template)
 

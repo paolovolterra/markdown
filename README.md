@@ -54,4 +54,4 @@ A clean **pandoc LaTeX template** to convert your markdown files to PDF or LaTeX
 
 ## Preview
 
-![manuale Pandoc](PandocManual.pdf)
+[![manuale Pandoc]](PandocManual.pdf)

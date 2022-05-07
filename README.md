@@ -7,7 +7,7 @@ L'idea di Markdown è quella di utilizzare un file di testo (.TXT) utilizzando d
 
 * se uso la sequenza [ ] ( ) e dentro metto nella prima parte del testo e nella seconda un link, capisce che devo scrivere il testo con un hyperlink [prova]()
 
-Qui c'è la sintassi per dire all'editor che il testo deve essere trattato in modi particolari [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Qui c'è il resto della sintassi per dire all'editor che il testo deve essere trattato in modi particolari [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 ## gestire un'immagine

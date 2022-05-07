@@ -2,6 +2,16 @@
 LateX
 ---
 
+![](https://www.latextemplates.com/images/LaTeX.png)
+
+LaTeX è un sistema per la creazione di documenti di alta qualità. È comunemente usato da scienziati, ingegneri, sviluppatori di software, matematici e altri professionisti per produrre documenti lunghi e tecnici, ma la sua utilità non è limitata a quello spazio. A differenza di un tipico word processor "ciò che vedi è ciò che ottieni" come Microsoft Word, LaTeX utilizza un linguaggio di markup di testo semplice (simile a HTML e CSS) che viene compilato in un documento PDF utilizzando regole tipografiche ottimali. Ciò si traduce in documenti dall'aspetto professionale che sono di una classe diversa rispetto all'output di un elaboratore di testi. Le numerose opzioni di personalizzazione in LaTeX consentono la creazione di una varietà di tipi di documenti con un controllo preciso su layout e formattazione. LaTeX si presta bene alla creazione di modelli che non richiedono una conoscenza avanzata di LaTeX da utilizzare e manipolare, consentendo a un utente inesperto di LaTeX di creare bellissimi documenti e imparare LaTeX mentre procede. 
+
+LaTeX utilizza un sistema di pacchetti per estenderne funzionalità e caratteristiche. Esistono numerosi pacchetti per creare praticamente qualsiasi elemento del documento e i pacchetti vengono scritti e aggiornati frequentemente
+
+Con LaTeX, il documento viene scritto in un editor di testo semplice (semplice come Blocco note o TextEdit) e fornito al compilatore LaTeX che interpreta i comandi LaTeX insieme al testo per produrre un output PDF. Ciò significa che le impostazioni importanti del documento come i caratteri, i margini e gli stili di intestazione sono definite in una sezione nella parte superiore del documento e qualsiasi formattazione locale (come il testo in grassetto) viene eseguita tramite l'uso di comandi nel testo. 
+
+![](https://www.latextemplates.com/images/freeman-cv_code.png)![](https://www.latextemplates.com/images/freeman-cv.jpg)
+
 # siti interessanti
 
 https://avvocati-e-mac.squarespace.com/blog/2019/4/9/compilare-un-atto-telematico-in-markdown-con-pandoc

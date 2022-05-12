@@ -15,6 +15,14 @@ stateDiagram-v2
   Closed --> Open: Open
 ```
 
+```mermaid
+graph TD
+    A[Friend's Birthday] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D["Cool <br> Laptop"]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+```
 
 ```mermaid
 stateDiagram-v2
@@ -55,6 +63,8 @@ Future task               :         des3, after des2, 5d
 Future task2              :         des4, after des3, 5d
 ```
 
+# Creating geoJSON and topoJSON maps
+
 ```geojson
 {
   "type": "Polygon",
@@ -69,6 +79,8 @@ Future task2              :         des4, after des3, 5d
   ]
 }
 ```
+
+## Using topoJSON
 
 ```topojson
 {

@@ -16,16 +16,19 @@ stateDiagram-v2
 ```
 
 
-``mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+```mermaid
+stateDiagram-v2
+
+    A-->B
+    A-->C
+    B-->D
+    C-->D
+    
 ```
 
 
-``mermaid
+```mermaid
+
 sequenceDiagram
     participant Alice
     participant Bob
@@ -41,7 +44,7 @@ sequenceDiagram
 
 
 
-``mermaid
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -54,8 +57,8 @@ Future task2              :         des4, after des3, 5d
 
 
 
-``mermaid
-classDiagram
+```mermaid
+
 Class01 <|-- AveryLongClass : Cool
 <<interface>> Class01
 Class03 *-- Class04
@@ -75,8 +78,9 @@ class Class10 {
   int id
   size()
 }
-```
-gitGraph:
+
+```mermaid
+gitGraph
 options
 {
     "nodeSpacing": 150,
@@ -92,6 +96,5 @@ checkout master
 commit
 commit
 merge newbranch
-```mermaid
 
 ```

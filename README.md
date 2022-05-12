@@ -43,3 +43,8 @@ Per convertire un file “.md” in un file “.html”, eseguire un comando nel
 
 
 [torna su](#MARKDOWN)
+
+
+# siti interessanti
+
+* http://daniele.freeshell.org/deep/slide/commonmark-buona.html

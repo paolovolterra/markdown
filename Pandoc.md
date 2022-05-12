@@ -1,5 +1,46 @@
 ## Pandoc
 
+
+Creare un documento in LaTeX o PDF con bibliografia
+
+Una volta aggiunte al testo le citazioni, si potrà convertire il file da Markdown nel formato desiderato usando Pandoc e l'estensione pandoc-citeproc.
+
+Esempio: il file in formato BibTeX biblio.bib contiene le seguenti righe:
+
+@book{dougadams:ggpa,
+    author = {Douglas, Adams},
+    title = {Guida galattica per gli autostoppisti},
+    series = {Urania},
+    volume = {1},
+    publisher = {Mondadori},
+    address = {Milano},
+    year = {1980}
+    }
+
+Convertire un testo da Markdown a LaTeX specificando il file bibliografico esterno:
+
+pandoc --bibliography=biblio.bib saggio.md -o saggio.tex
+
+Convertire un testo da Markdown a PDF con indice:
+
+pandoc --bibliography=biblio.bib --toc -s saggio.md -o saggio.pdf
+
+Lo stesso comando con estensione .epub produrrà l'effetto desiderato. (generare un EPUB).
+
+L'opzione standalone -s produce un documento indipendente;
+L'opzione --toc genera l'indice dei contenuti;
+L'opzione -N numera i capitoli;
+L'opzione -H, ad esempio: -H head.css, può essere usata per inserire un link a un file css nel header HTML.
+
+Quando non si specifica lo stile di citazione con l'opzione --csl Pandoc usa il Chicago Manual of Style.
+
+Pandoc usa unicode UTF-8. Consultare il manuale di Pandoc per altre opzioni.
+
+Le citazioni vengono riportate automaticamente alla fine del documento, dunque l'ultimo capitolo farà bene a chiamarsi: Bibliografia.
+
+# Bibliografia
+
+
 vedi [pagina apposita](https://github.com/paolovolterra/markdown/blob/main/Pandoc.md#converting-markdown-to-pdf-or-docx-with-pandoc)
 
 

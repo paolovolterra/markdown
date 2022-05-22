@@ -9,6 +9,29 @@ L'idea di Markdown è quella di utilizzare un file di testo (.TXT) utilizzando d
 
 Qui c'è il resto della sintassi per dire all'editor che il testo deve essere trattato in modi particolari [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+# [Markdown (Syntax & Extensions, Documentation & Cheat Sheets, Libraries, ...)](https://github.com/writekit/awesome-markdown) 
+# [Markdown Editors & (Pre)viewers](https://github.com/writekit/awesome-markdown-editors)  
+# [Books (Services, Hand-Written, Auto-Built w/ Open Data, ...)](https://github.com/writekit/awesome-books)
+
+
+# [Awesome Markdown](https://github.com/mundimark/awesome-markdown/blob/master/README.md)
+
+A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+
+Note: :octocat: stands for the GitHub page and :gem: stands for the RubyGems page.
+
+## [Markdown to Portable Document Format (PDF)](https://github.com/mundimark/awesome-markdown/blob/master/README.md#markdown-to-portable-document-format-pdf)
+## [Markdown to Table of Contents (TOC)](https://github.com/mundimark/awesome-markdown/blob/master/README.md#markdown-to-table-of-contents-toc)
+##[]()
+##[]()
+
+---
+
+[ANNOUNCEMENT] Looking for the latest news, tools, tips & tricks, and more
+about markdown and friends?
+Follow along the Manuscripts News ([@manuscriptsnews](https://twitter.com/manuscriptsnews)) channel on twitter for updates.
+
+---
 
 ## gestire un'immagine
 linkandola direttamente o prevedere riferimenti

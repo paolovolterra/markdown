@@ -1,13 +1,4 @@
 ```mermaid
-graph TD
-    A[Friend's Birthday] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D["Cool <br> Laptop"]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-```
-
-```mermaid
 stateDiagram-v2
 
     DESTINATARIO-->AZIENDA
@@ -16,6 +7,19 @@ stateDiagram-v2
     AZIENDA-->INVESTIMENTI
     AZIENDA-->BUSINESSTRANSFORMATION
     FILIERA-->CICLODIVITA
+    CICLODIVITA-->produzione/vendita
+    CICLODIVITA-->produzione/conservazione/vendita
+    CICLODIVITA-->produzione/trasformazione/vendita
+    CICLODIVITA-->produzione/trasformazione/conservazione/vendita
+    CICLODIVITA-->produzione/conferimento/vendita
+    CICLODIVITA-->produzione/conferimento/trasformazione/vendita
+    CICLODIVITA-->produzione/conferimento/trasformazione/conservazione/vendita
+    INVESTIMENTI-->efficientamentoBusiness(compresaSostenibilitàAmbientale)
+    INVESTIMENTI-->ampliamentobusiness
+    BUSINESSTRANSFORMATION-->nuovelineedibusiness
+
+    
+    
 ```
 
 

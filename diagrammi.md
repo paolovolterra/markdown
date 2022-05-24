@@ -15,6 +15,25 @@ stateDiagram-v2
   Closed --> Open: Open
 ```
 
+
+```mermaid
+graph LR
+
+A & B--> C & D
+style A fill:#f9f,stroke:#333,stroke-width:px
+style B fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
+
+subgraph beginning
+A & B
+end
+
+subgraph ending
+C & D
+end
+```
+
+
+
 ```mermaid
 graph TD
     A[Friend's Birthday] -->|Get money| B(Go shopping)
@@ -48,6 +67,18 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
+```
+
+
+
+```mermaid
+gantt
+title Writing my thesisdateFormat  MM-DD
+axisFormat  %m-%dsection Research
+Procrastinate           :a1, 01-01, 59d
+Do it     :after a1  , 10dsection Write-up
+Should I start?     :03-01 , 20d
+Ugh ok      : 6d
 ```
 
 

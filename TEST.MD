@@ -1,5 +1,5 @@
 ```mermaid
-stateDiagram-v2
+graph LR
 
     DESTINATARIO-->AZIENDA
     DESTINATARIO-->FILIERA
